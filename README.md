@@ -2,6 +2,8 @@
 <html>
 <body>
 <b>hello world</b>
+</body>
+</html>
 
 <h1 class="ml11">
   <span class="text-wrapper">
@@ -11,6 +13,3 @@
 </h1>
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/animejs/2.0.2/anime.min.js"></script>
-
-</body>
-</html>
