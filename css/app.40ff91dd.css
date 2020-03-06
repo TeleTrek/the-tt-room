@@ -1,1 +1,11 @@
-.box{border:10px solid transparent;-o-border-image:33% fill round;border-image:33% fill round;overflow:auto;display:inline-block;border-width:16px;color:#fff}.namebox{margin-bottom:-10px;border-width:8px;border-image-source:url(https://i.imgur.com/T0L3bJF.png)}.textbox{border-image-source:url(https://i.imgur.com/mEnw219.png)}#app{font-family:Avenir,Helvetica,Arial,sans-serif;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;color:#2c3e50}
+.box{border:10px solid transparent;
+  -o-border-image:33% fill round;
+  border-image:33% fill round;
+  overflow:auto;
+  display:inline-block;
+  border-width:16px;
+  color:#fff}.namebox{margin-bottom:-10px;
+    border-width:8px;
+    border-image-source:url(https://i.imgur.com/T0L3bJF.png)}.textbox{border-image-source:url(https://i.imgur.com/mEnw219.png)}#app{font-family:Avenir,Helvetica,Arial,sans-serif;
+      -webkit-font-smoothing:antialiased;
+      -moz-osx-font-smoothing:grayscale;color:#2c3e50}
