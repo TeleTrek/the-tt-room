@@ -11,7 +11,7 @@
 .namebox {
   margin-bottom: -10px;
   border-width: 8px;
-  border-image-source: url("namebox.png");
+  border-image-source: url("https://i.imgur.com/T0L3bJF.png");
   max-width: 200px;
   font-weight: bold;
   /*
@@ -20,7 +20,7 @@
   */
 }
 .textbox {
-  border-image-source: url("text_outline.png");
+  border-image-source: url("https://i.imgur.com/mEnw219.png");
   min-width: 200px;
 }
 
