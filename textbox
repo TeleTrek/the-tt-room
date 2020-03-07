@@ -1,0 +1,47 @@
+.box {
+  border: 10px solid transparent;
+  -webkit-border-image: 33% fill round;
+  -o-border-image: 33% fill round;
+  border-image: 33% fill round;
+  overflow: auto;
+  display: inline-block;
+  border-width: 16px;
+  color: white;
+}
+.namebox {
+  margin-bottom: -10px;
+  border-width: 8px;
+  border-image-source: url("namebox.png");
+  max-width: 200px;
+  font-weight: bold;
+  /*
+    You should probably replace the i.imgur sources to sources
+    hosted on your own website
+  */
+}
+.textbox {
+  border-image-source: url("text_outline.png");
+  min-width: 200px;
+}
+
+.textbox > pre {
+  margin: 0;
+}
+
+.parent {
+  display: grid;
+  grid-template-columns: 1fr 3fr;
+  grid-template-rows: 1fr 1.5fr;
+  grid-column-gap: 0px;
+  grid-row-gap: 1px;
+}
+
+.div1 {
+  grid-area: 1 / 1 / 2 / 2;
+}
+.div2 {
+  grid-area: 1 / 2 / 2 / 3;
+}
+.div3 {
+  grid-area: 2 / 1 / 3 / 3;
+}
