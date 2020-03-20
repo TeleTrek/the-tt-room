@@ -1,8 +1,9 @@
 ///moving letters code, hello goodbye from tobiasahlin.com
 
 .ml11 {
-  font-weight: 700;
-  font-size: 3.5em;
+  font-family: Arial, serif;
+  font-weight: 500;
+  font-size: 1.5em;
 }
 
 .ml11 .text-wrapper {
@@ -18,8 +19,8 @@
   position: absolute;
   left: 0;
   height: 100%;
-  width: 3px;
-  background-color: #fff;
+  width: 2px;
+  background-color: #000080;
   transform-origin: 0 50%;
 }
 
